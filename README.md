@@ -42,3 +42,5 @@ I imported the transformed data into Power BI for analysis and created the neces
 ## Recommendation;
 Since the month with the highest sales is December due to the festive occasion, more products should be on the market to bring the highest return possible.
 The price of the product in areas that generate less revenue should be reduced to increase the popularity of the store and create an increase in sales in January, February, August, and September to increase ** ROI ** for the year.
+
+## My project link 🔗- [Sales data Dashboard.pdf](https://github.com/Mr-Ayeh/Sales_Data_Analysis/blob/main/Sales%20data%20Dashboard.pdf)
