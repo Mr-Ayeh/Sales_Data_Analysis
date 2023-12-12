@@ -1,6 +1,7 @@
 # Sales_Data_Analysis
 The goal of this Project is to analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
-# My project link 🔗- [Sales_Data_Analysis Dasboard](Sales data Dashboard.pdf)
+
+## My project link 🔗- [Sales data Dashboard.pdf](https://github.com/Mr-Ayeh/Sales_Data_Analysis/blob/main/Sales%20data%20Dashboard.pdf)
 
 ## Overview of Project
 
